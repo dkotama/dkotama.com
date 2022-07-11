@@ -1,7 +1,8 @@
 ---
-title: This is my fourth post.
-description: This is a post on My Blog about touchpoints and circling wagons.
-date: 2018-09-30
+title: This is my third post.
+description: This is a post on My Blog about win-win survival strategies.
+date: 2018-08-24
+draft: true
 tags:
   - second-tag
 ---
@@ -10,6 +11,18 @@ Leverage agile frameworks to provide a robust synopsis for high level overviews.
 Iterative approaches to corporate strategy foster collaborative thinking to
 further the overall value proposition. Organically grow the holistic world view
 of disruptive innovation via workplace diversity and empowerment.
+
+```js
+// this is a command
+function myCommand() {
+  let counter = 0;
+
+  counter++;
+}
+
+// Test with a line break above this line.
+console.log("Test");
+```
 
 Bring to the table win-win survival strategies to ensure proactive domination.
 At the end of the day, going forward, a new normal that has evolved from

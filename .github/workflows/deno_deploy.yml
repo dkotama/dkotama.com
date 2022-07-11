@@ -30,7 +30,7 @@ jobs:
 
       - name: Build site
         run: |
-          deno task build --location=https://dkotama.deno.dev
+          deno task build --location=https://dkotama.com
 
       - name: Deploy to Deno Deploy
         uses: denoland/deployctl@v1
