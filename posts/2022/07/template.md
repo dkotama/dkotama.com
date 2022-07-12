@@ -1,6 +1,7 @@
 ---
 title: Memento Mori ― Sebuah seni untuk menghargai waktu.
-description: Memento Mori yang memiliki arti kata 'ingatlah kita akan mati', mengajarkan kita untuk menghargai waktu.
+draft: true
+description: 
 date: 2022-07-11
 tags: 
   - filosofi
