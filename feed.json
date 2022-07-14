@@ -1,0 +1,27 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "dkotama",
+  "home_page_url": "https://lumeland.github.io/base-blog/",
+  "feed_url": "https://lumeland.github.io/base-blog/feed.json",
+  "description": "I writes, and sometimes I code.",
+  "author": {
+    "name": "I Nyoman Darma Kotama,",
+    "url": "https://dkotama.com/about-me/"
+  },
+  "items": [
+    {
+      "id": "https://lumeland.github.io/base-blog/posts/amor-fati-cintailah-takdirmu/",
+      "url": "https://lumeland.github.io/base-blog/posts/amor-fati-cintailah-takdirmu/",
+      "title": "Amor Fati ― Cintailah takdirmu",
+      "content_html": "<p><img src=\"https://lumeland.github.io/base-blog/img/bird2.png\" alt=\"amor fati illustration\"></p>\n<p><em>Amor Fati</em> memiliki arti &quot;Cintailah takdirmu&quot;. Sepaham dengan ajaran <a href=\"https://lumeland.github.io/base-blog/tags/stoikisme\">stoikisme</a>, seorang filsuf eksistensialis ternama asal Jerman yang bernama Frederic Nietzche mengulas tentang pentingnya kita mengambil perspektif baru dalam menghadapi hal manusiawi bernama ― takdir.</p>\n<p>Sejatinya takdir yang terjadi pada masa lalu atau masa sekarang, adalah sesuatu yang tidak dapat dihindari. Kemalangan, kesenangan, kesedihan dan segala emosi yang terjadi pada saat kita melalui takdir itu menurut Nietzche hendaknya di arahkan dalam perspektif baru untuk mengambil hikmahnya sehingga kita bisa berjalan lebih jauh dalam perjalanan abadi kita untuk mengenal diri sendiri ini.</p>\n<blockquote>\n<p>Amor Fati adalah caraku untuk menghadapi kehidupan ini,\ndimana kita tidak mengharapkan sesuatu akan terjadi berbeda,\ntidak di masa lalu, tidak di masa depan, ataupun selamanya,</p>\n</blockquote>\n<blockquote>\n<p>dan tidak semata-mata berserah diri akan apa yang terjadi, namun sebaliknya, mencintai takdirku.</p>\n</blockquote>\n<blockquote>\n<p>― Frederic Nietzche</p>\n</blockquote>",
+      "date_published": "2022-08-11T00:00:00Z"
+    },
+    {
+      "id": "https://lumeland.github.io/base-blog/posts/memento-mori-sebuah-seni-menghargai-waktu-qo2pq/",
+      "url": "https://lumeland.github.io/base-blog/posts/memento-mori-sebuah-seni-menghargai-waktu-qo2pq/",
+      "title": "Memento Mori ― Sebuah seni untuk menghargai waktu.",
+      "content_html": "<p><img src=\"https://lumeland.github.io/base-blog/img/bird1.png\" alt=\"memento mori illustration\"></p>\n<p>Berbicara tentang kematian, kadang membuat kita yang masih muda risih. Kenapa <em>sih</em> kita harus berpikir sejauh itu? <em>toh</em> kita masih sehat saja, badan masih kuat, uang jajan untuk besok juga masih ada.</p>\n<p>Ajaran dari filosofi teras, yang memegang teguh tentang bagaimana kita harus mengubah perspektif terhadap kemalangan hidup (<em>suffering</em>) membuat sebuah konsep kematian dilihat sebagai sebuah hal yang harus dihargai, karena sejatinya dalam kehidupan setiap orang satu-satunya hal yang pasti adalah kematian.</p>\n<p>Memento Mori berasal dari bahasa latin yang berarti <em>&quot;Remember you must die&quot;</em> atau &quot;Ingatlah kelak kamu harus mati&quot;. Praktisi filosofi teras banyak menerapkan pemikiran ini sebagai cambuk untuk menjadi lebih baik setiap harinya, agar kelak nanti ketika senja menjemput tidak akan ada lagi penyesalan karena sudah menyia-nyiakan semua kesempatan hidup yang ada.</p>\n<blockquote>\n<p>Sudah seharusnya kita berpikir setiap harinya dengan prinsip bahwa kelak kita akan meninggalkan dunia ini.</p>\n</blockquote>\n<blockquote>\n<p>Dengan demikian kita tidak akan pernah berpikir untuk menunda-nunda. Seseorang yang berpikir bahwa setiap tindakan yang dia lakukan adalah tindakan terbaik menuju akhir hidupnya, niscaya tidak akan pernah kehabisan waktu untuk melakukan apapun</p>\n</blockquote>\n<blockquote>\n<p>― Seneca, Moral Letters to Lucilius</p>\n</blockquote>",
+      "date_published": "2022-07-11T00:00:00Z"
+    }
+  ]
+}

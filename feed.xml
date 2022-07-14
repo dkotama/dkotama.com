@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>dkotama</title>
+	<subtitle>I writes, and sometimes I code.</subtitle>
+	<link href="https://lumeland.github.io/base-blog/feed.xml" rel="self"/>
+	<link href="https://lumeland.github.io/base-blog/"/>
+	
+	<updated>2022-08-11T00:00:00Z</updated>
+	<id>https://lumeland.github.io/base-blog/</id>
+	<author>
+		<name>I Nyoman Darma Kotama,</name>
+		<email>hello@dkotama.com,</email>
+	</author>
+	<entry>
+		<title>Amor Fati ― Cintailah takdirmu</title>
+		<link href="https://lumeland.github.io/base-blog/posts/amor-fati-cintailah-takdirmu/"/>
+		<updated>2022-08-11T00:00:00Z</updated>
+		<id>https://lumeland.github.io/base-blog/posts/amor-fati-cintailah-takdirmu/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://lumeland.github.io/base-blog/img/bird2.png&quot; alt=&quot;amor fati illustration&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Amor Fati&lt;/em&gt; memiliki arti &amp;quot;Cintailah takdirmu&amp;quot;. Sepaham dengan ajaran &lt;a href=&quot;https://lumeland.github.io/base-blog/tags/stoikisme&quot;&gt;stoikisme&lt;/a&gt;, seorang filsuf eksistensialis ternama asal Jerman yang bernama Frederic Nietzche mengulas tentang pentingnya kita mengambil perspektif baru dalam menghadapi hal manusiawi bernama ― takdir.&lt;/p&gt;
+&lt;p&gt;Sejatinya takdir yang terjadi pada masa lalu atau masa sekarang, adalah sesuatu yang tidak dapat dihindari. Kemalangan, kesenangan, kesedihan dan segala emosi yang terjadi pada saat kita melalui takdir itu menurut Nietzche hendaknya di arahkan dalam perspektif baru untuk mengambil hikmahnya sehingga kita bisa berjalan lebih jauh dalam perjalanan abadi kita untuk mengenal diri sendiri ini.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Amor Fati adalah caraku untuk menghadapi kehidupan ini,
+dimana kita tidak mengharapkan sesuatu akan terjadi berbeda,
+tidak di masa lalu, tidak di masa depan, ataupun selamanya,&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;dan tidak semata-mata berserah diri akan apa yang terjadi, namun sebaliknya, mencintai takdirku.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;― Frederic Nietzche&lt;/p&gt;
+&lt;/blockquote&gt;</content>
+	</entry>
+	<entry>
+		<title>Memento Mori ― Sebuah seni untuk menghargai waktu.</title>
+		<link href="https://lumeland.github.io/base-blog/posts/memento-mori-sebuah-seni-menghargai-waktu-qo2pq/"/>
+		<updated>2022-07-11T00:00:00Z</updated>
+		<id>https://lumeland.github.io/base-blog/posts/memento-mori-sebuah-seni-menghargai-waktu-qo2pq/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://lumeland.github.io/base-blog/img/bird1.png&quot; alt=&quot;memento mori illustration&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Berbicara tentang kematian, kadang membuat kita yang masih muda risih. Kenapa &lt;em&gt;sih&lt;/em&gt; kita harus berpikir sejauh itu? &lt;em&gt;toh&lt;/em&gt; kita masih sehat saja, badan masih kuat, uang jajan untuk besok juga masih ada.&lt;/p&gt;
+&lt;p&gt;Ajaran dari filosofi teras, yang memegang teguh tentang bagaimana kita harus mengubah perspektif terhadap kemalangan hidup (&lt;em&gt;suffering&lt;/em&gt;) membuat sebuah konsep kematian dilihat sebagai sebuah hal yang harus dihargai, karena sejatinya dalam kehidupan setiap orang satu-satunya hal yang pasti adalah kematian.&lt;/p&gt;
+&lt;p&gt;Memento Mori berasal dari bahasa latin yang berarti &lt;em&gt;&amp;quot;Remember you must die&amp;quot;&lt;/em&gt; atau &amp;quot;Ingatlah kelak kamu harus mati&amp;quot;. Praktisi filosofi teras banyak menerapkan pemikiran ini sebagai cambuk untuk menjadi lebih baik setiap harinya, agar kelak nanti ketika senja menjemput tidak akan ada lagi penyesalan karena sudah menyia-nyiakan semua kesempatan hidup yang ada.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Sudah seharusnya kita berpikir setiap harinya dengan prinsip bahwa kelak kita akan meninggalkan dunia ini.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Dengan demikian kita tidak akan pernah berpikir untuk menunda-nunda. Seseorang yang berpikir bahwa setiap tindakan yang dia lakukan adalah tindakan terbaik menuju akhir hidupnya, niscaya tidak akan pernah kehabisan waktu untuk melakukan apapun&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;― Seneca, Moral Letters to Lucilius&lt;/p&gt;
+&lt;/blockquote&gt;</content>
+	</entry>
+</feed>
