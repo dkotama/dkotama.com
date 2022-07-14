@@ -2,6 +2,7 @@
   border-bottom: 1px dashed var(--lightgray);
   display: flex;
   flex-wrap: wrap;
+  padding-bottom: 10px;
 
   & a {
     padding: 1em;

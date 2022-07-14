@@ -6,6 +6,10 @@ date: 2022-07-11
 tags: 
   - filosofi
   - stoikisme
+metas:
+  title: Template
+  description: My first post
+  image: /hello-world.png
 ---
 Berbicara tentang kematian, kadang membuat kita yang masih muda risih. Kenapa *sih* kita harus berpikir sejauh itu? *toh* kita masih sehat saja, badan masih kuat, uang jajan untuk besok juga masih ada.
 

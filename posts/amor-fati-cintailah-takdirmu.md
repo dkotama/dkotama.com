@@ -5,7 +5,15 @@ date: 2022-08-11
 tags: 
   - filosofi
   - nietzche
+
+metas:
+  title: Amor Fati, Cintailah takdirmu 
+  description: Secara filosofis amor fati berarti cintailah takdirmu
+  image: /img/bird2.png
 ---
+
+![amor fati illustration](/img/bird2.png)
+
 *Amor Fati* memiliki arti "Cintailah takdirmu". Sepaham dengan ajaran [stoikisme](/tags/stoikisme), seorang filsuf eksistensialis ternama asal Jerman yang bernama Frederic Nietzche mengulas tentang pentingnya kita mengambil perspektif baru dalam menghadapi hal manusiawi bernama ― takdir.
 
 Sejatinya takdir yang terjadi pada masa lalu atau masa sekarang, adalah sesuatu yang tidak dapat dihindari. Kemalangan, kesenangan, kesedihan dan segala emosi yang terjadi pada saat kita melalui takdir itu menurut Nietzche hendaknya di arahkan dalam perspektif baru untuk mengambil hikmahnya sehingga kita bisa berjalan lebih jauh dalam perjalanan abadi kita untuk mengenal diri sendiri ini.

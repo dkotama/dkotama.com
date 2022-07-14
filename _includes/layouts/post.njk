@@ -2,32 +2,43 @@
 layout: layouts/base.njk
 bodyClass: body-post
 ---
+
+
+
 <article class="post">
   <header class="post-header">
-    <h1 class="post-title">{{ title }}</h1>
-
-    <nav class="post-tags">
-    {% for tag in tags %}
-      <a href="/tags/{{ tag }}/" class="tag">{{ tag }}</a>
-    {% endfor %}
-    </nav>
-
-    <time class="post-date" datetime="{{ date | date('DATETIME') }}">
-      {{ date | date('HUMAN_DATE') }}
-    </time>
-
     <!--Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@1,500&display=swap" rel="stylesheet">  
   </header>
 
-  <div class="post-body">
-    {{ content | safe }}
+  <div class="container w-full md:max-w-3xl mx-auto pt-5">
+		<div class="w-full px-4 md:px-6 text-xl text-gray-800 leading-normal" >
+      <!--Title-->
+        <div class="font-sans">
+          <h1 class="font-bold font-sans break-normal text-gray-900 pt-6 pb-2 text-3xl md:text-4xl">{{ title }}</h1>
+          <p class="text-sm md:text-base font-normal text-gray-600">
+            <time datetime="{{ date | date('DATETIME') }}">
+              {{ date | date('HUMAN_DATE') }}
+            </time>
+          </p>
+        </div>
+        <div class="post-body">
+          {{ content | safe }}
+        </div>
+        <nav class="post-tags">
+          {% for tag in tags %}
+            <a href="/tags/{{ tag }}/" class="tag">{{ tag }}</a>
+          {% endfor %}
+        </nav>
+          </div>
   </div>
+
 </article>
 
-<hr>
+<!--Divider-->
+<hr class="border-b-2 border-gray-100 mb-8 mx-4">
 
 <nav class="post-navigation">
   <ul>

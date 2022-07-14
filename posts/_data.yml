@@ -1,2 +1,11 @@
 type: posts
 layout: layouts/post.njk
+
+metas:
+  site: Darma Kotama Blog
+  twitter: "@dkotama"
+  icon: /img/FU4wAjhJxLUB7Y.png.png
+  lang: id
+
+mergedKeys:
+  metas: object

@@ -6,11 +6,11 @@ import codeHighlight from "lume/plugins/code_highlight.ts";
 import basePath from "lume/plugins/base_path.ts";
 import slugifyUrls from "lume/plugins/slugify_urls.ts";
 import resolveUrls from "lume/plugins/resolve_urls.ts";
-import netlifyCMS from "lume/plugins/netlify_cms.ts";
+import metas from "lume/plugins/metas.ts";
 import gpm from "https://deno.land/x/gpm@v0.4.1/mod.ts";
 
 const site = lume({
-  location: new URL("https://example.com/"),
+  location: new URL("https://dkotama.com/"),
 });
 
 site
@@ -23,10 +23,12 @@ site
   .use(basePath())
   .use(slugifyUrls({ alphanumeric: false }))
   .use(resolveUrls())
-  .use(netlifyCMS({ netlifyIdentity: true }))
+  .use(metas())
   .addEventListener(
     "beforeBuild",
     () => gpm(["oom-components/searcher"], "js/vendor"),
   );
+
+site.copy([".png"], (file) => "/img" + file);
 
 export default site;

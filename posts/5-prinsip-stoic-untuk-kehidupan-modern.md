@@ -1,12 +1,21 @@
 ---
 title: 5 Prinsip Stoikisme untuk kehidupan Modern
-draft: true
 description: Prinsip prinsip filosofi teras atau stoikisme untuk kehidupan manusia modern.
+draft: true
 date: 2022-07-11
 tags: 
   - filosofi
   - stoikisme
+
+metas:
+  title: 5 Prinsip Stoikisme untuk kehidupan Modern
+  description: Prinsip prinsip filosofi teras atau stoikisme untuk kehidupan manusia modern.
+  image: /img/bird4.png
+
 ---
+
+
+![memento mori illustration](/img/bird4.png)
 
 [Stoikisme](/tags/stoikisme) atau filosofi teras adalah sebuah konsep filosofi yang tidak pernah habis saya pelajari. Stoikisme mengajarkan saya beberapa poin yang menurut saya sangat cocok untuk dipahami dan diterapkan sehari-hari dalam kehidupan kita.
 
