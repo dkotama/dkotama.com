@@ -1,5 +1,6 @@
 ---
 title: 5 Prinsip Stoikisme untuk kehidupan Modern
+draft: true
 description: Prinsip prinsip filosofi teras atau stoikisme untuk kehidupan manusia modern.
 date: 2022-07-17
 tags: 
