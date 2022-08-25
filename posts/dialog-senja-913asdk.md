@@ -1,12 +1,12 @@
 ---
 title: Dialog Senja
-description: "dik, kamu nangis lagi ?", kata kakak seraya mengusap pipiku; "ngga, kok" jawabku; trus, kenapa _bengek_ begitu?", tanya kakak
+description: "dik, kamu nangis lagi ? kata kakak seraya mengusap pipiku ngga, kok jawabku trus, kenapa _bengek_ begitu? tanya kakak"
 date: 2022-08-25
 tags: 
   - cerita pendek
 metas:
   title: Dialog Senja
-  description: "dik, kamu nangis lagi ?", kata kakak seraya mengusap pipiku; "ngga, kok" jawabku; trus, kenapa _bengek_ begitu?", tanya kakak
+  description: "dik, kamu nangis lagi ? kata kakak seraya mengusap pipiku ngga, kok jawabku trus, kenapa _bengek_ begitu? tanya kakak"
   image: /bird3.png
 ---
 ![cerita pendek tentang dialog senja](/img/bird3.png)
