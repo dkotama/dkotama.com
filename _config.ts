@@ -8,10 +8,17 @@ import slugifyUrls from "lume/plugins/slugify_urls.ts";
 import resolveUrls from "lume/plugins/resolve_urls.ts";
 import metas from "lume/plugins/metas.ts";
 import gpm from "https://deno.land/x/gpm@v0.4.1/mod.ts";
+import footnote from "https://jspm.dev/markdown-it-footnote";
+
+
+const markdown = {
+  plugins: [footnote],
+  keepDefaultPlugins: true
+};
 
 const site = lume({
   location: new URL("https://dkotama.com/"),
-});
+}, { markdown });
 
 site
   .ignore("README.md")

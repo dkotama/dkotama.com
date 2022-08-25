@@ -1,7 +1,7 @@
 ---
 title: Amor Fati ― Cintailah takdirmu
 description: Amor fati yang memiliki arti kata 'cintailah takdirmu', merupakan sebuah konsep berpikir untuk menghilangkan kesedihan kita akan takdir.
-date: 2022-08-11
+date: 2022-07-11
 tags: 
   - filosofi
   - nietzche
