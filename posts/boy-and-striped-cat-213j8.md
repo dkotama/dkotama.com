@@ -7,7 +7,7 @@ tags:
 
 metas:
   title: The Boy and the Striped Cat
-  description:  A quiet boy, Takumi, encounters a mystical striped cat that leads him to a hidden forest clearing. There, he learns the language of nature and the true essence of love, transforming his life forever.
+  description:  A quiet boy, Takumi, encounters a mystical striped cat that leads him to a hidden forest clearing. There, he learns the language of nature and the true essence of love, transforming his life to forever longing love.
   image: /img/boy-and-striped-cat-213j8.jpg
 
 ---
