@@ -36,6 +36,6 @@ site
     () => gpm(["oom-components/searcher"], "js/vendor"),
   );
 
-site.copy([".png"], (file) => "/img" + file);
+site.copy([".png", ".jpg"], (file) => "/img" + file);
 
 export default site;
