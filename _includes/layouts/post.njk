@@ -60,16 +60,17 @@ bodyClass: body-post
 
 <script>
   // Center images in post content
-  const images = document.querySelectorAll('.post-body img');
+  const images = document.querySelectorAll('.body-post img');
   images.forEach(img => {
     const parent = img.parentElement;
     if (parent.tagName === 'P') {
-      parent.classList.add('text-center');
+      parent.classList.add('mx-auto');
     } else {
       const wrapper = document.createElement('p');
       wrapper.classList.add('text-center');
       img.parentNode.insertBefore(wrapper, img);
       wrapper.appendChild(img);
+      wrapper.classList.add('mx-auto');
     }
   });
 </script>
