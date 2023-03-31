@@ -3,7 +3,7 @@ title: The Boy and the Striped Cat
 description: A quiet boy, Takumi, encounters a mystical striped cat that leads him to a hidden forest clearing. There, he learns the language of nature and the true essence of love, transforming his life forever.
 date: 2023-03-30
 tags: 
-  - short-story
+  - cerita-pendek
 
 metas:
   title: The Boy and the Striped Cat
