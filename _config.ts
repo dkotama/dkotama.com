@@ -18,6 +18,9 @@ const markdown = {
 
 const site = lume({
   location: new URL("https://dkotama.com/"),
+  buildOptions: {
+    hashedAssets: true, // add cache-busting to file names
+  },
 }, { markdown });
 
 site
