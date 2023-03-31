@@ -57,3 +57,19 @@ bodyClass: body-post
     {% endif %}
   </ul>
 </nav>
+
+<script>
+  // Center images in post content
+  const images = document.querySelectorAll('.post-body img');
+  images.forEach(img => {
+    const parent = img.parentElement;
+    if (parent.tagName === 'P') {
+      parent.classList.add('text-center');
+    } else {
+      const wrapper = document.createElement('p');
+      wrapper.classList.add('text-center');
+      img.parentNode.insertBefore(wrapper, img);
+      wrapper.appendChild(img);
+    }
+  });
+</script>

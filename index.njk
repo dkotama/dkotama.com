@@ -6,7 +6,7 @@ menu:
   order: 0
 ---
 
-{% set postslist = search.pages("type=posts", "date=desc", 3) %}
+{% set postslist = search.pages("type=posts", "date=desc", 5) %}
 
 <h2>Latest {% if postslist.length == 1 %}Post{% else %}{{ postslist.length }} Posts{% endif %}</h3>
 
