@@ -14,7 +14,7 @@ metas:
 ---
 
 
-![prinsip prinsip filosofi stoikisme dalam kehidupan modern illustrasi](/img/bird4.png)
+![prinsip prinsip filosofi stoikisme dalam kehidupan modern illustrasi](\img\spring-bird-Vintage-Image-GraphicsFairy-768x440.jpg)
 
 Filosofi stoikisme telah memberikan perspektif baru dalam memandang kehidupan. Melalui prinsip-prinsipnya, kita diajak untuk menyikapi kehidupan dengan lebih bijaksana dan tenang. Berikut adalah lima prinsip stoikisme yang dapat diterapkan dalam kehidupan modern.
 
@@ -32,7 +32,6 @@ Pemikiran seperti ini tidak jarang terlintas di benak kita bukan? Kita sebagai m
 Bagaimana pendapat orang terhadap kita, bagaimana penilaian mereka dan bagaimana perlakuan mereka terhadap kita merupakan diluar kendali kita. Akan tetapi, bagaimana *effort* kita untuk membuat orang lain nyaman, menjadi orang yang sesuai dengan perkataan, dan menjadi lawan bicara yang asik, merupakan batas-batas kontrol kita terhadap diri kita. Maksimalkan saja hal-hal yang dalam kendali kita dalam bersikap terhadap ayah, ibu, saudara dan teman. Biarkan penilaian mereka tentang kamu, ditangan mereka. Langit tidak perlu menjelaskan dirinya tinggi, Berlian tidak perlu menjelaskan dirinya indah. 
 
 > Be so good, so they can't ignore you
-
 > ― Cal Newport
 
 
@@ -43,7 +42,6 @@ Dalam konteks Dikotomi Kendali, membeli barang untuk menarik perhatian orang lai
 > We buy things, we don't need,
 > with money we don't have,
 > to impress people we don't like.
-
 > ― Dave Ramsey, Fight Club
 
 Cara terbaik untuk menentukan apakah anda membutuhkan barang itu adalah dengan menanyakan pada diri anda sendiri. Apakah anda yang membutuhkan ? atau hanya memenuhi ego keinginan anda ? ambil jeda untuk berpikir, dan berikan waktu diri anda untuk memilah-milah realita yang ada. Beli *lah* barang karena anda yakin itu akan berguna dan anda benar-benar inginkan.
@@ -63,7 +61,6 @@ Stoikisme bukan hanya sekumpulan teori, tetapi praktik hidup. Hal terpenting dal
 
 
 > "Bukan karena kita tidak tahu yang benar, tetapi karena kita tidak menerapkannya."
-
 > ― Seneca, Surat-Surat Moral kepada Lucilius
 
 Dengan menerapkan prinsip-prinsip stoikisme, kita dapat menjalani hidup yang lebih tenang, terkendali, dan bermakna.
