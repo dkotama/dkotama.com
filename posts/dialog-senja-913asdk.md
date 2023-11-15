@@ -1,5 +1,6 @@
 ---
 title: Dialog Senja
+draft: true
 description: "dik, kamu nangis lagi ? kata kakak seraya mengusap pipiku ngga, kok jawabku trus, kenapa _bengek_ begitu? tanya kakak"
 date: 2022-08-25
 tags: 

@@ -1,7 +1,7 @@
 ---
 title: 5 Prinsip Stoikisme untuk kehidupan Modern
 description: Menyelami prinsip-prinsip filosofi stoikisme dan penerapannya dalam kehidupan modern untuk mencapai ketenangan dan kebahagiaan.
-date: 2022-07-17
+date: 2022-15-11
 tags: 
   - filosofi
   - stoikisme
