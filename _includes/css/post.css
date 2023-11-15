@@ -10,6 +10,11 @@
 }
 .post-body p {
   margin-top: 10px;  
+  font-size: 1rem; /* Adjust as needed */
+}
+.post-body img {
+  max-width: 100%;
+  height: auto;
 }
 .post-navigation {
   & ul {
@@ -36,4 +41,10 @@ h1, h2, h3 {
 
 h2 {
   margin-top: 20px;
+}
+
+@media screen and (max-width: 600px) {
+  .post-body p {
+    font-size: 0.875rem; /* Adjust as needed */
+  }
 }
