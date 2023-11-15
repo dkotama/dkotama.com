@@ -13,15 +13,21 @@
   flex-direction: column;
   align-items: center;
 }
+.post-body p, .post-body img {
+  max-width: 600px; /* Adjust as needed */
+}
 .post-body p {
   margin-top: 10px;  
   font-size: 1rem; /* Adjust as needed */
-  max-width: 600px; /* Adjust as needed */
   text-align: justify;
 }
 .post-body img {
   max-width: 100%;
   height: auto;
+}
+.post-body ol, .post-body em, .post-body blockquote {
+  max-width: 100%;
+  align-self: start;
 }
 .post-navigation {
   & ul {
@@ -38,20 +44,10 @@
 }
 
 blockquote {
-  font-size: 1.2em;
+  font-size: 1.5em; /* Adjust as needed */
   font-family: 'Cormorant Garamond', serif;
 }
 
 h1, h2, h3 {
   font-weight: bold;
-}
-
-h2 {
-  margin-top: 20px;
-}
-
-@media screen and (max-width: 600px) {
-  .post-body p {
-    font-size: 0.875rem; /* Adjust as needed */
-  }
 }
