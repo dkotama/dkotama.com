@@ -30,7 +30,10 @@ blockquote {
   font-family: 'Cormorant Garamond', serif;
 }
 
-h1 h2 h3 {
+h1, h2, h3 {
   font-weight: bold;
 }
 
+h2 {
+  margin-top: 20px;
+}
