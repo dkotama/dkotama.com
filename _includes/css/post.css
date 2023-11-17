@@ -52,7 +52,7 @@ blockquote {
 
 /* Desktop styles */
 @media (min-width: 1024px) {
-  .post-body p, .post-body blockquote, .post-body ol {
+  .post-body p, .post-body blockquote, .post-body ol, .post-tags {
     text-align: left;
     max-width: 680px; /* Mimics Medium's max-width */
     margin: 0 auto; /* Centers the content */
