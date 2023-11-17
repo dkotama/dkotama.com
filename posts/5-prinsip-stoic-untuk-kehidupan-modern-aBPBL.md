@@ -9,14 +9,14 @@ tags:
 metas:
   title: 5 Prinsip Stoikisme untuk kehidupan Modern
   description: Menyelami prinsip-prinsip filosofi stoikisme dan penerapannya dalam kehidupan modern untuk mencapai ketenangan dan kebahagiaan.
-  image: /img/bird4.png
+  image: /img/spring-bird-Vintage-Image-GraphicsFairy-768x440.jpg
 
 ---
 
 
-![prinsip prinsip filosofi stoikisme dalam kehidupan modern illustrasi](\img\spring-bird-Vintage-Image-GraphicsFairy-768x440.jpg)
+![prinsip prinsip filosofi stoikisme dalam kehidupan modern illustrasi](/img/spring-bird-Vintage-Image-GraphicsFairy-768x440.jpg)
 
-Filosofi stoikisme telah memberikan perspektif baru dalam memandang kehidupan. Melalui prinsip-prinsipnya, kita diajak untuk menyikapi kehidupan dengan lebih bijaksana dan tenang. Berikut adalah lima prinsip stoikisme yang dapat diterapkan dalam kehidupan modern.
+Filosofi stoikisme yang lahir ribuan tahun lalu masih memberikan perspektif baru dalam memandang kehidupan. Melalui prinsip-prinsipnya, kita diajak untuk menyikapi kehidupan dengan lebih bijaksana Berikut adalah lima prinsip stoikisme yang dapat diterapkan dalam kehidupan modern.
 
 
 ## 1. Ikhlaskan segala hal yang tidak bisa kita kendalikan
