@@ -71,9 +71,9 @@ blockquote {
   .post-title {
     font-size: clamp(2rem, 8vw, 3rem); /* Adjust for smaller screens */
   }
-  
-  .post-body p, .post-body img {
-    max-width: 100%; /* Allows paragraphs and images to fill their containers on smaller screens */
+
+  .post-body p, .post-body blockquote, .post-body ol, .post-tags {
+    padding: 1em; /* Add padding */
   }
 
   .post-body {

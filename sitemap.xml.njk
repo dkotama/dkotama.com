@@ -6,4 +6,9 @@
     <lastmod>{{ page.data.date | date("DATE") }}</lastmod>
   </url>
 {%- endfor %}
+{%- for page in search.pages("type=tag", "tag") %}
+  <url>
+    <loc>{{ page.data.url | url(true) }}</loc>
+  </url>
+{%- endfor %}
 </urlset>
