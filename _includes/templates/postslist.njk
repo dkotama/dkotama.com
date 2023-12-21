@@ -1,5 +1,6 @@
 <ul class="postList">
   {% for post in postslist %}
+  {% if post.data.hidden != true %}
   <li class="postList-post">
     <a href="{{ post.data.url }}" class="postList-title"{% if entry.data.url == url %} aria-current="page"{% endif %}>
       {% if post.data.title %}
@@ -22,5 +23,6 @@
 
     <p class="postList-description">{{ post.data.shortDescription }}</p>
   </li>
-{% endfor %}
+  {% endif %}
+  {% endfor %}
 </ul>
